@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\bmcneill\\Desktop\\Recomplieplugin\\HostProject\\Plugins\\glTFRuntime\\Source\\glTFRuntime\\glTFRuntime.Build.cs",
+		"C:\\Users\\bmcneill\\Desktop\\Recomplieplugin\\HostProject\\Plugins\\glTFRuntime\\Source\\glTFRuntimeEditor\\glTFRuntimeEditor.Build.cs"
+	],
+	"EngineVersion": "4.25.4"
+}
